@@ -1,0 +1,7 @@
+# Arquivos de ambiente de desenvolvimento
+.idea/
+.venv/
+.vscode/
+
+# Arquivos derivados do python
+__pycache__
